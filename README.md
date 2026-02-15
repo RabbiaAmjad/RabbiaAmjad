@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbiaamjad" alt="rabbiaamjad" /></a> </p>
 
-- 🔭 I’m currently working on **Enchanted Tiles Game**
+- 🔭 I’m currently learning **Everything about DATA**
 
 - 🌱 I’m currently learning **Python**
 
